@@ -1,0 +1,4 @@
+theme = "codemonkey"
+baseurl = "http://joelthecodemonkey.com:1313/"
+languageCode = "en-us"
+title = "JoelTheCodeMonkey"
