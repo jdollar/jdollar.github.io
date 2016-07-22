@@ -1,3 +1,14 @@
 html {
   font-family: Hack, monospace;
 }
+
+.bannerImage {
+  display: block;
+}
+
+nav .brand-logo {
+  padding-left: 1%;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
