@@ -20,6 +20,10 @@ nav .brand-logo {
   padding-bottom: 0;
 }
 
+.rounded-borders {
+  border-radius: 5px;
+}
+
 .green-primary {
   background-color: #507F62;
   color: #507F62;
