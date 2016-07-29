@@ -1,2 +1,12 @@
 {{ partial "header.html" . }}
+  <section class="container" id="list">
+      {{ range .Data.Pages }}
+        <div class="card hoverable solarized-dark-text rounded-borders">
+          <div class="card-content center-align">
+            <span class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+            <p class="left-align">{{ .Description }}</p>
+          </div>
+        </div>
+      {{ end }}
+  </section>
 {{ partial "footer.html" . }}
