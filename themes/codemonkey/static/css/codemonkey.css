@@ -49,6 +49,11 @@ nav .brand-logo {
   color: #1F5433;
 }
 
+.pagination li.active {
+  background-color: #1F5433;
+  color: #507F62;
+}
+
 .green-primary-light {
   background-color: #719880;
   color: #719880;
@@ -62,6 +67,14 @@ nav .brand-logo {
 .blue-secondary-dark {
   background-color: #1D3C48;
   color: #47636E;
+}
+
+.pagination > li > a {
+  color: #47636E;
+}
+
+.pagination li.disabled a {
+  color: #444;
 }
 
 .blue-secondary-light {
