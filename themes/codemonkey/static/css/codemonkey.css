@@ -17,6 +17,10 @@ html, body {
   min-height: 85%;
 }
 
+.postTypeBtnList {
+  padding-bottom: 1%;
+}
+
 footer {
   padding-bottom: 2%;
 }
