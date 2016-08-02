@@ -1,9 +1,10 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;
+  height: 83%;
   font-family: Hack, monospace;
 }
+
 .bannerHeader {
   background-color: #3f3f3f;
   color: #dcdccc;
@@ -13,7 +14,7 @@ html, body {
 }
 
 .bodyWrapper {
-  min-height: 100%;
+  min-height: 85%;
 }
 
 footer {
