@@ -2,3 +2,33 @@ theme = "codemonkey"
 baseurl = "http://joelthecodemonkey.com:1313/"
 languageCode = "en-us"
 title = "Code Shinannigans and fun projects"
+
+[params]
+    bannerText = "Make Something"
+    title = "Joel the Code Monkey"
+
+[params.home]
+    text = "Home"
+    tooltip = "Homepage"
+    icon = "fa-home"
+
+[params.github]
+    text = "Github"
+    tooltip = "Github"
+    link = "https://github.com/jdollar"
+    icon = "fa-github"
+
+[params.resume]
+    text = "Resume"
+    tooltip = "Resume"
+    link = "https://docs.google.com/document/d/10bNRI4bpsoUaDI9fYcugBx-AH53POb1Ow8LPn--CgSw/pub"
+    icon = "fa-file-text"
+
+[params.blog]
+    tooltip = "Blogs"
+    icon = "fa-list"
+
+[params.about]
+    text = "About"
+    tooltip = "About"
+    icon = "fa-info-circle"
