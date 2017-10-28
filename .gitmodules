@@ -1,0 +1,3 @@
+[submodule "themes/codemonkey"]
+	path = themes/codemonkey
+	url = git@github.com:jdollar/codemonkey-hugo-style.git
