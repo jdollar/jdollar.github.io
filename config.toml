@@ -26,9 +26,12 @@ title = "Code Shinannigans and fun projects"
 
 [params.blog]
     tooltip = "Blogs"
+    text = "Blog"
     icon = "fa-list"
+    link = "/code/"
 
 [params.about]
     text = "About"
     tooltip = "About"
     icon = "fa-info-circle"
+    link = "/about"
