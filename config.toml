@@ -18,20 +18,8 @@ title = "Code Shinannigans and fun projects"
     link = "https://github.com/jdollar"
     icon = "fa-github"
 
-[params.resume]
-    text = "Resume"
-    tooltip = "Resume"
-    link = "https://docs.google.com/document/d/10bNRI4bpsoUaDI9fYcugBx-AH53POb1Ow8LPn--CgSw/pub"
-    icon = "fa-file-text"
-
 [params.blog]
     tooltip = "Blogs"
     text = "Blog"
     icon = "fa-list"
     link = "/code/"
-
-[params.about]
-    text = "About"
-    tooltip = "About"
-    icon = "fa-info-circle"
-    link = "/about"
