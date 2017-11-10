@@ -7,19 +7,8 @@ title = "Code Shinannigans and fun projects"
     bannerText = "Make Something"
     title = "Joel the Code Monkey"
 
-[params.home]
-    text = "Home"
-    tooltip = "Homepage"
-    icon = "fa-home"
-
-[params.github]
-    text = "Github"
-    tooltip = "Github"
-    link = "https://github.com/jdollar"
-    icon = "fa-github"
-
-[params.blog]
-    tooltip = "Blogs"
-    text = "Blog"
-    icon = "fa-list"
-    link = "/code/"
+[[params.navbar]]
+  text = "Github"
+  tooltip = "Github"
+  link = "https://github.com/jdollar"
+  icon = "fa-github"
