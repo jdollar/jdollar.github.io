@@ -8,6 +8,16 @@ title = "Code Shinannigans and fun projects"
     title = "Joel the Code Monkey"
 
 [[params.navbar]]
+  text = "Home"
+  link = "/"
+  icon = "fa-home"
+
+[[params.navbar]]
   text = "Github"
   link = "https://github.com/jdollar"
   icon = "fa-github"
+
+[[params.navbar]]
+  text = "About"
+  link = "/about"
+  icon = "fa-align-left"
