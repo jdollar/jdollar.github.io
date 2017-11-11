@@ -9,6 +9,5 @@ title = "Code Shinannigans and fun projects"
 
 [[params.navbar]]
   text = "Github"
-  tooltip = "Github"
   link = "https://github.com/jdollar"
   icon = "fa-github"
